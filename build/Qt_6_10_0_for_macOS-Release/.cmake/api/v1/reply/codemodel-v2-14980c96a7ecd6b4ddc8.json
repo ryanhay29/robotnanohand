@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-3e75ee6bdcfe1102e3c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RobotHand",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RobotHand::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RobotHand-Release-32fff36e44d575b0d8b5.json",
+					"name" : "RobotHand",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RobotHand_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RobotHand_autogen-Release-6f8f50afbf892e0d0635.json",
+					"name" : "RobotHand_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RobotHand_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RobotHand_autogen_timestamp_deps-Release-fa6f0ac1096522f011e1.json",
+					"name" : "RobotHand_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ryanhay/RobotHand/build/Qt_6_10_0_for_macOS-Release",
+		"source" : "/Users/ryanhay/RobotHand"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

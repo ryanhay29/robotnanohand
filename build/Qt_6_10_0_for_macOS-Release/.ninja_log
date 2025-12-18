@@ -1,0 +1,16 @@
+# ninja log v6
+1	522	1766086466637927011	RobotHand_autogen/mocs_compilation.cpp	7a1f988a857b7621
+565	1995	1766086466695102896	CMakeFiles/RobotHand.dir/main.cpp.o	6b85fa66a09a303b
+565	1996	1766086466694716724	CMakeFiles/RobotHand.dir/RobotHand_autogen/mocs_compilation.cpp.o	7aa9dc642b7b7b9f
+1	522	1766086466637927011	RobotHand_autogen/timestamp	7a1f988a857b7621
+524	565	1766086466692329486	/Users/ryanhay/RobotHand/build/Qt_6_10_0_for_macOS-Release/RobotHand_autogen/EWIEGA46WW/qrc_resources.cpp	71fb5aa70e170b7e
+2	15	1766086466131532107	RobotHand.app/Contents/Resources/icon.icns	db85494977375b95
+524	565	1766086466692329486	RobotHand_autogen/EWIEGA46WW/qrc_resources.cpp	71fb5aa70e170b7e
+1	522	1766086466637927011	/Users/ryanhay/RobotHand/build/Qt_6_10_0_for_macOS-Release/RobotHand_autogen/mocs_compilation.cpp	7a1f988a857b7621
+567	1440	1766086466696356911	CMakeFiles/RobotHand.dir/serial.cpp.o	f798e032b65e250a
+567	927	1766086466696622915	CMakeFiles/RobotHand.dir/RobotHand_autogen/EWIEGA46WW/qrc_resources.cpp.o	c1574ac1ec04e3eb
+566	1439	1766086466695764279	CMakeFiles/RobotHand.dir/hand.cpp.o	ea229b3569c1477
+1	522	1766086466637927011	/Users/ryanhay/RobotHand/build/Qt_6_10_0_for_macOS-Release/RobotHand_autogen/timestamp	7a1f988a857b7621
+566	1445	1766086466696036783	CMakeFiles/RobotHand.dir/scservo.cpp.o	ae2fbbedf72a9f0c
+566	2327	1766086466695331024	CMakeFiles/RobotHand.dir/mainwindow.cpp.o	98979e874d386e79
+2327	2469	1766086468456765488	RobotHand.app/Contents/MacOS/RobotHand	b4b33f30fedf71f
