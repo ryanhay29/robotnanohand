@@ -1,7 +1,7 @@
 # Robot Hand Controller
 
 An app for controlling a [Robot Nano Hand](https://robotnanohand.com/).  
-This release is **calibrated to my own hand setup** and works only on **ARM64 Macs**.  
+This release is **calibrated to my hand setup** and works only on **ARM64 Macs**.  
 The source code is based on [Hamsa](https://gitlab.com/robot-nano-hand/hamsa/-/tree/master/src/cpp?ref_type=heads).
 
 [Watch the demo](https://youtu.be/kCV66GzrXGE)
@@ -27,7 +27,7 @@ If you wish to use different calibration settings or run on another OS, you must
 
 ## Notes
 
-- This is a **personal build**; slider ranges and preset poses are tuned to my hand.
+- This is a **personal build**; slider ranges and preset poses are tuned to the hand I used.
 - Built with Qt 6 and C++.
 
 
